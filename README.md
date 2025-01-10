@@ -100,8 +100,6 @@ Nutrient-Hub is a web application that allows users to explore food products usi
    ```bash
    npm start
 5. Open the application in your browser at http://localhost:3000.
-
-### Time taken to complete the Project is 6 hours.
    
 ## Nutrient-Hub
 
